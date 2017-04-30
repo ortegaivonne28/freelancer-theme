@@ -7,7 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Ecommerce App is an app that allows users to browse a selection of shoes, do a search by brand name or model, filter shoes by category, price, brand and model, save their favorites to a wishlist, add to cart and proceed to checkout. This app was built as a project for General Assembly’s Android development bootcamp. The list of shoes is stored locally in a SQLite database, along with the shoes in cart and shoes in wishlist. Features include: User can search through the brand name or model name; results are updated on each key press User can filter results; the funnel icon opens a dialog with a dropdown of place categories User can sort the results by price, model, category, type of shoe or model name. User can add to cart or to wishlist from the detail screen. User can remove from cart or move to wishlist from the cart screen. User can remove from wishlist or move to cart from the wishlist screen. Skills/languages/tools: Java, Android SDK, SQLite
 
 ---
 
