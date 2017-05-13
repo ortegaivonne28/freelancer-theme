@@ -2251,6 +2251,15 @@
 				}
 
 			}
+.imagegif {
+  width: 269px;
+  height: 95px;
+}
+
+.imagegif.center {
+    display: block;
+    margin: 0 auto;
+}
 
 /* List */
 
