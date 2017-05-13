@@ -2254,6 +2254,8 @@
 .imagegif {
   width: 269px;
   height: 95px;
+	    margin-left: auto;
+    margin-right: auto
 }
 
 .imagegif.center {
